@@ -5,6 +5,7 @@ out/
 
 ### ETC ###
 /.idea/
+Animal.iml
 
 ### Eclipse ###
 .apt_generated
